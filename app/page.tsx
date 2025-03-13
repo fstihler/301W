@@ -22,7 +22,7 @@ export default function Home() {
       {/* Logo in top-left corner */}
       <div className="absolute top-6 left-6 z-30 flex items-center">
         <Hotel className="h-5 w-5 text-white-300" />
-        <span className="ml-2 text-xs font-light tracking-widest text-white/90">VISIT US!</span>
+        <span className="ml-2 text-xs font-light tracking-widest text-white/90">301W</span>
       </div>
 
       {/* Content - Just One Line of Text */}
